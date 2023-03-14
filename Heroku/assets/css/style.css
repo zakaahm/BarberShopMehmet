@@ -1300,7 +1300,7 @@ a.contact-link:is(:hover, :focus) { color: var(--white); }
  * responsive for large than 1200px screen
  */
 
-@media (min-width: 1200px) {
+@media (min-width: 75%) {
 
   /**
    * CUSTOM PROPERTY
